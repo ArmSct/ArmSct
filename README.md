@@ -13,7 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ArmSct/threat-hunting-scenario-tor)**
 
 ## 🔑 IT Projects
-- **[Active Directory (Tor Browser Usage)]**
+- **[Active Directory (Managing and Organizing IT Resources)]**
 
 <hr/>
 
