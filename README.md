@@ -15,7 +15,7 @@ I'm passionate about IT and cybersecurity and love tackling complex challenges t
 ## 🖥️ IT Projects
 - **[Azure Wireshark Analysis](https://github.com/ArmSct/azure-wireshark-analysis)**
 - **[osTicket Setup on Azure](https://github.com/ArmSct/osticket)**
-- **[osTicket Ticketing](https://github.com/ArmSct/osticket-ticketing)**
+- **[osTicket Case Management](https://github.com/ArmSct/osticket-ticketing)**
 
 <hr/>
 
