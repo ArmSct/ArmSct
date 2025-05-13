@@ -16,7 +16,7 @@ I'm passionate about IT and cybersecurity and love tackling complex challenges t
 - **[Azure Wireshark Analysis](https://github.com/ArmSct/azure-wireshark-analysis)**
 - **[osTicket Setup on Azure](https://github.com/ArmSct/osticket)**
 - **[osTicket Incident Handling](https://github.com/ArmSct/osticket-ticketing)**
-- **[osTicket Post-Installion Configurations](https://github.com/ArmSct/osTicket-Post-Installation)**
+- **[osTicket Configuration and User Management](https://github.com/ArmSct/osTicket-configurations)**
 
 <hr/>
 
