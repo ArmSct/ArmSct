@@ -12,7 +12,7 @@ I'm passionate about IT and cybersecurity and love tackling complex challenges t
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ArmSct/threat-hunting-scenario-tor)**
 
-## 🖥️ IT Projects
+## 🖥️ Information Technology Projects
 - **[Azure Wireshark Analysis](https://github.com/ArmSct/azure-wireshark-analysis)**
 - **[osTicket Setup on Azure](https://github.com/ArmSct/osticket)**
 - **[osTicket Incident Handling](https://github.com/ArmSct/osticket-ticketing)**
