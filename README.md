@@ -18,7 +18,7 @@ I'm passionate about IT and cybersecurity and love tackling complex challenges t
 - **[osTicket Incident Handling](https://github.com/ArmSct/osticket-ticketing)**
 - **[osTicket Configuration and User Management](https://github.com/ArmSct/osTicket-Post-Installation)**
 - **[Deploying Active Directory on Azure](https://github.com/ArmSct/AD-setup)**
-- **[DNS Configuration and Resolution](https://github.com/ArmSct)** !
+- **[DNS Configuration and Resolution](https://github.com/ArmSct/DNS)**
 - **[User Access Management and Log Analysis]()** !
 - **[Windows File Sharing and Permissions]()** !
 
