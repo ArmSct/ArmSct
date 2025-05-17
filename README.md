@@ -5,7 +5,7 @@ I'm passionate about IT and cybersecurity and love tackling complex challenges t
 
 ## 🛡️  Cyber Security Projects
 
-- Vulnerability Management
+- #### Vulnerability Management
   - **[Vulnerability Management Program Implementation](https://github.com/ArmSct/Vulnerability-Management-Program)**
   - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
