@@ -3,24 +3,29 @@
 I'm passionate about IT and cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
-## ⚠️ Vulnerability Management
+## 🛡️  Cyber Security Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/ArmSct/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- Vulnerability Management
+-- **[Vulnerability Management Program Implementation](https://github.com/ArmSct/Vulnerability-Management-Program)**
+-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ArmSct/threat-hunting-scenario-tor)**
+- Threat Hunting and Security Operations
+-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ArmSct/threat-hunting-scenario-tor)**
 
 ## 🖥️ Information Technology Projects
-- **[Azure Wireshark Analysis](https://github.com/ArmSct/azure-wireshark-analysis)**
-- **[osTicket Setup on Azure](https://github.com/ArmSct/osticket)**
-- **[osTicket Incident Handling](https://github.com/ArmSct/osticket-ticketing)**
-- **[osTicket Configuration and User Management](https://github.com/ArmSct/osTicket-Post-Installation)**
-- **[Deploying Active Directory on Azure](https://github.com/ArmSct/AD-setup)**
-- **[DNS Configuration and Resolution](https://github.com/ArmSct/DNS)**
-- **[Managing User Accounts in Active Directory](https://github.com/ArmSct/user-account-management)** !
-- **[Windows File Sharing and Permissions](https://github.com/ArmSct/shares-and-permissions)**
+
+-- Microsoft Azure
+-- **[Deploying Active Directory on Azure](https://github.com/ArmSct/AD-setup)**
+-- **[Azure Wireshark Analysis](https://github.com/ArmSct/azure-wireshark-analysis)**
+-- **[Managing User Accounts in Active Directory](https://github.com/ArmSct/user-account-management)** 
+-- **[Windows File Sharing and Permissions](https://github.com/ArmSct/shares-and-permissions)**
+-- **[DNS Configuration and Resolution](https://github.com/ArmSct/DNS)**
+
+- osTicket (Help Desk Ticketing System)
+-- **[osTicket Setup on Azure](https://github.com/ArmSct/osticket)**
+-- **[osTicket Incident Handling](https://github.com/ArmSct/osticket-ticketing)**
+-- **[osTicket Configuration and User Management](https://github.com/ArmSct/osTicket-Post-Installation)**
+
 
 <hr/>
 
