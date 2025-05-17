@@ -17,7 +17,7 @@ I'm passionate about IT and cybersecurity and love tackling complex challenges t
 - **[Windows File Sharing and Permissions](https://github.com/ArmSct/shares-and-permissions)**
 - **[DNS Configuration and Resolution](https://github.com/ArmSct/DNS)**
 
-## 💬 osTicket (Help Desk Ticketing System)
+## 🔧 osTicket (Help Desk Ticketing System)
 - **[osTicket Setup on Azure](https://github.com/ArmSct/osticket)**
 - **[osTicket Incident Handling](https://github.com/ArmSct/osticket-ticketing)**
 - **[osTicket Configuration and User Management](https://github.com/ArmSct/osTicket-Post-Installation)**
