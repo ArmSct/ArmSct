@@ -22,15 +22,14 @@ I'm passionate about IT and cybersecurity and love tackling complex challenges t
 - **[osTicket Incident Handling](https://github.com/ArmSct/osticket-ticketing)**
 - **[osTicket Configuration and User Management](https://github.com/ArmSct/osTicket-Post-Installation)**
 
-
-<hr/>
-
 ## 🧾 Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
+
+<hr/>
 
 ## 🤝 Connect With Me
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
