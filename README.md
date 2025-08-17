@@ -9,6 +9,8 @@ I'm passionate about IT and cybersecurity and love tackling complex challenges t
 
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ArmSct/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Devices Exposed to the Internet)](...)**
+- **[Threat Hunting Scenario (Sudden Network Slowdown)](...)**
 
 ## 🔐 Active Directory
 - **[Deploying Active Directory on Azure](https://github.com/ArmSct/AD-setup)**
