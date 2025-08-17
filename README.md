@@ -8,9 +8,9 @@ I'm passionate about IT and cybersecurity and love tackling complex challenges t
 <!-- - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)** -->
 
 ## 🚨 Threat Hunting and Security Operations
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ArmSct/threat-hunting-scenario-tor)**
-- **[Threat Hunting Scenario (Devices Exposed to the Internet)](...)**
-- **[Threat Hunting Scenario (Sudden Network Slowdown)](...)**
+- **[Threat Hunting - Tor Browser Usage](https://github.com/ArmSct/threat-hunting-scenario-tor)**
+- **[Threat Hunting - Devices Exposed to the Internet](...)**
+- **[Threat Hunting - Sudden Network Slowdown](...)**
 - **[Attack Maps and Log Visualization](https://github.com/ArmSct/Attack-Maps-and-Log-Visualization)**
 
 ## 🔐 Active Directory
