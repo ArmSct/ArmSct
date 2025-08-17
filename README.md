@@ -9,7 +9,7 @@ I'm passionate about IT and cybersecurity and love tackling complex challenges t
 
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting - Unauthorized Tor Browser Usage](https://github.com/ArmSct/threat-hunting-scenario-tor)**
-- **[Threat Hunting - Devices Accidentally Exposed to the Internet](...)**
+- **[Threat Hunting - Devices Accidentally Exposed to the Internet](https://github.com/ArmSct/Devices-Accidentally-Exposed-to-the-Internet)**
 - **[Threat Hunting - Sudden Network Slowdowns](...)**
 - **[Attack Maps and Log Visualization](https://github.com/ArmSct/Attack-Maps-and-Log-Visualization)**
 
