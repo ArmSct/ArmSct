@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and IT and love tackling challenges through h
 
 ## ⚠️ Vulnerability Management
 - **[Vulnerability Management Program Implementation](https://github.com/ArmSct/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
+- **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/ArmSct/Vulnerability-Remediations/tree/main/STIGS)**
 
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting - Unauthorized Tor Browser Usage](https://github.com/ArmSct/threat-hunting-scenario-tor)**
