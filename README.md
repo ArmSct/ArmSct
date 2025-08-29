@@ -13,8 +13,6 @@ I'm passionate about cybersecurity and IT and love tackling challenges through h
 - **[Threat Hunting - Sudden Network Slowdowns](https://github.com/ArmSct/Sudden-Network-Slowdowns)**
 - **[Attack Maps and Log Visualization](https://github.com/ArmSct/Attack-Maps-and-Log-Visualization)**
 
-## 🚨 Incident Response
-
 ## 🔐 Active Directory
 - **[Deploying Active Directory on Azure](https://github.com/ArmSct/AD-setup)**
 - **[Azure Wireshark Analysis](https://github.com/ArmSct/azure-wireshark-analysis)**
