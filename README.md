@@ -7,12 +7,15 @@ I'm passionate about cybersecurity and IT and love tackling challenges through h
 - **[Vulnerability Management Program Implementation](https://github.com/ArmSct/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/ArmSct/Vulnerability-Remediations/tree/main/STIGS)**
 
-## 🔍 Threat Hunting and 🚨 Incident Response
+## 🔍 Threat Hunting
 - **[Unauthorized Tor Browser Usage](https://github.com/ArmSct/threat-hunting-scenario-tor)**
 - **[Devices Accidentally Exposed to the Internet](https://github.com/ArmSct/Devices-Accidentally-Exposed-to-the-Internet)**
 - **[Sudden Network Slowdowns](https://github.com/ArmSct/Sudden-Network-Slowdowns)**
 - **[Attack Maps and Log Visualization](https://github.com/ArmSct/Attack-Maps-and-Log-Visualization)**
 
+## 🚨 Incident Response
+- **[Virtual Machine Brute Force Detection]([https://github.com/ArmSct/threat-hunting-scenario-tor](https://github.com/ArmSct/Virtual-Machine-Brute-Force-Detection/blob/main/README.md)**
+- 
 ## 🔐 Active Directory
 - **[Deploying Active Directory on Azure](https://github.com/ArmSct/AD-setup)**
 - **[Azure Wireshark Analysis](https://github.com/ArmSct/azure-wireshark-analysis)**
