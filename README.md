@@ -35,7 +35,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 <img src="https://img.shields.io/badge/-A%2B-d93f34?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-D9822B?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-3d7df5?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B-2b59ad?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-2f4ced?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 <hr/>
